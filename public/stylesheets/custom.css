@@ -100,5 +100,27 @@ footer nav {
 	float: none;
 }
 
+table.profile {
+	width: 100%;
+	margin-boto: 0;
 
+}
 
+td.main {
+	width: 70%;
+	paddign: 1em;
+
+}
+
+td.sidebar {
+	width: 30%;
+	padding: 1em;
+	vertical-align: top;
+	background: #ffc;
+}
+
+.profile img.gravatar {
+	border: 1px solid #999;
+	margin_bottom: -15px;
+
+}
